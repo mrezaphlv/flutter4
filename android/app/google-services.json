@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "948189527305",
+    "project_id": "fluttercontoh",
+    "storage_bucket": "fluttercontoh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948189527305:android:51ef1ae4dd9bd8556fe7d8",
+        "android_client_info": {
+          "package_name": "com.example.flutter4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948189527305-rqfjppsatdl4gghc1srhik6m89fr6r4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter4",
+            "certificate_hash": "783183c3fe3deaf3d3da7d83cdee45fceaba35b8"
+          }
+        },
+        {
+          "client_id": "948189527305-ev61ls4vc1e6eo91rj9b2u857k0kta3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0fQBenre675jC6n-LAX4s6Saj9TsiyBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948189527305-ev61ls4vc1e6eo91rj9b2u857k0kta3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

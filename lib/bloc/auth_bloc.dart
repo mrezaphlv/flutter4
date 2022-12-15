@@ -1,0 +1,15 @@
+import 'package:bloc/bloc.dart';
+import 'package:equatable/equatable.dart';
+// import 'package:firebase_auth/firebase_auth.dart';
+// import 'package:firebase_messaging/firebase_messaging.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+// import 'package:google_sign_in/google_sign_in.dart';
+import 'package:hive/hive.dart';
+// import 'package:home_cleaning/core/storage/securestorage.dart';
+// import 'package:home_cleaning/data/repositories/auth_repo.dart';
+// import 'package:home_cleaning/data/repositories/google_sign_repo.dart';
+// import 'package:home_cleaning/data/repositories/user_repo.dart';
+// import 'package:jwt_decoder/jwt_decoder.dart';
+part 'auth_event.dart';
+part 'auth_state.dart';
