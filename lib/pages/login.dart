@@ -29,7 +29,7 @@ class _LoginPageState extends State<LoginPage> {
                 controller: emailController,
                 decoration: InputDecoration(
                   
-                  hintText: 'Email',
+                  hintText: 'Email Address',
                   focusedBorder: OutlineInputBorder(
                                     borderRadius: const BorderRadius.all(
                                       Radius.circular(16.0),
